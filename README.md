@@ -19,7 +19,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 🔹 **RunningShoes**  
 React, Material UI, Node.js, Express, SQLite  
 - Built a web application for runners to track and manage their shoe rotation  
-- Designed and implemented a REST API with CRUD functionality 
+- Designed and implemented a REST API with CRUD functionality   
 👉 [View Repository](https://github.com/Atte-A/running-shoes)
 
 🔹 **PhoneBook**  
