@@ -26,7 +26,7 @@ Java • Spring Boot • Thymeleaf • PostgreSQL
 - Added authentication and role-based access control with Spring Security  
 - Created seed data for testing 
 👉 [View Repository](https://github.com/Atte-A/hh-backend-resepti)
-
+---
 
 #### 👟 **RunningShoes** 
 React • Material UI • Node.js • Express • SQLite  
@@ -34,7 +34,7 @@ React • Material UI • Node.js • Express • SQLite
 - Built a web application for runners to track and manage their shoe rotation  
 - Designed and implemented a REST API with CRUD functionality   
 👉 [View Repository](https://github.com/Atte-A/running-shoes)
-
+---
 
 #### ☎️ **PhoneBook**  
 React • Node.js • Express • MongoDB  
