@@ -24,17 +24,20 @@ Java • Spring Boot • Thymeleaf • PostgreSQL
 - Built server-side rendered UI using Thymeleaf  
 - Added authentication and role-based access control with Spring Security  
 - Created seed data for development and testing environments  
+👉 [View Repository](https://github.com/Atte-A/hh-backend-resepti)
 
-👉 [Repository](https://github.com/Atte-A/hh-backend-resepti)
 
-• **RunningShoes**  
-React, Material UI, Node.js, Express, SQLite  
+### **RunningShoes** 
+React • Material UI • Node.js • Express • SQLite  
+
 - Built a web application for runners to track and manage their shoe rotation  
 - Designed and implemented a REST API with CRUD functionality   
 👉 [View Repository](https://github.com/Atte-A/running-shoes)
 
-• **PhoneBook**  
-React, Node.js, Express, MongoDB  
+
+### **PhoneBook**  
+React • Node.js • Express • MongoDB  
+
 - Implemented a REST API with full CRUD operations for managing contacts  
 - Built and deployed backend service with database integration  
 👉 [Live App](https://puhelinluettelo-backend-8x5a.onrender.com/) | [Repository](https://github.com/Atte-A/puhelinluettelo_backend)
