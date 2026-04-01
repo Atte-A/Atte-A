@@ -16,7 +16,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 
 ### 🚀 Projects
 
-### **Resepti**  
+### 👨‍🍳 **Resepti**  
 Java • Spring Boot • Thymeleaf • PostgreSQL  
 
 - Created full-stack web app for recipes
@@ -27,18 +27,16 @@ Java • Spring Boot • Thymeleaf • PostgreSQL
 - Created seed data for testing 
 👉 [View Repository](https://github.com/Atte-A/hh-backend-resepti)
 
-<br>
 
-### **RunningShoes** 
+### 👟 **RunningShoes** 
 React • Material UI • Node.js • Express • SQLite  
 
 - Built a web application for runners to track and manage their shoe rotation  
 - Designed and implemented a REST API with CRUD functionality   
 👉 [View Repository](https://github.com/Atte-A/running-shoes)
 
-<br>
 
-### **PhoneBook**  
+### ☎️ **PhoneBook**  
 React • Node.js • Express • MongoDB  
 
 - Implemented a REST API with full CRUD operations for managing contacts  
