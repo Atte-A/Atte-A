@@ -26,7 +26,7 @@ Java • Spring Boot • Thymeleaf • PostgreSQL
 - Created seed data for testing 
 👉 [View Repository](https://github.com/Atte-A/hh-backend-resepti)
 
-<br><br>
+<br>
 
 ### **RunningShoes** 
 React • Material UI • Node.js • Express • SQLite  
@@ -35,7 +35,7 @@ React • Material UI • Node.js • Express • SQLite
 - Designed and implemented a REST API with CRUD functionality   
 👉 [View Repository](https://github.com/Atte-A/running-shoes)
 
-<br><br>
+<br>
 
 ### **PhoneBook**  
 React • Node.js • Express • MongoDB  
