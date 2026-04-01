@@ -24,7 +24,7 @@ Java • Spring Boot • Thymeleaf • PostgreSQL
 - Implemented many-to-many relationships between core entities  
 - Built server-side rendered UI using Thymeleaf  
 - Added authentication and role-based access control with Spring Security  
-- Created seed data for testing 
+- Created seed data for testing   
 👉 [View Repository](https://github.com/Atte-A/hh-backend-resepti)
 ---
 
