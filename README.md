@@ -19,6 +19,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 ### **Resepti**  
 Java • Spring Boot • Thymeleaf • PostgreSQL  
 
+- Created full-stack web app for recipes
 - Designed relational database models using JPA/Hibernate (recipes, ingredients, tags)  
 - Implemented many-to-many relationships between core entities  
 - Built server-side rendered UI using Thymeleaf  
