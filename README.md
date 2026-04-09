@@ -3,9 +3,10 @@
 I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 
 ### 💻 Tech Stack
-- Frontend: React, JavaScript, Material UI
+- Frontend: React, JavaScript, Material UI, (Thymeleaf)
 - Backend: Node.js, Express, Spring Boot
 - Database: PostgreSQL, MongoDB, SQLite
+- Version Control: Git, GitHub
 
 ### 🧑‍💻 About Me
 - 🚀 Seeking my first software developer role
@@ -17,7 +18,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 ### 🚀 Projects
 ---
 #### 👨‍🍳 **Recipe Application**  
-> Java • Spring Boot • Thymeleaf • PostgreSQL  
+> Java • Spring Boot • Thymeleaf • Git • PostgreSQL  
 
 - Created full-stack web app for recipes
 - Designed relational database models using JPA/Hibernate (recipes, ingredients, tags)  
@@ -29,7 +30,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 ---
 
 #### 👟 **RunningShoes** 
-> React • Material UI • Node.js • Express • SQLite  
+> React • Material UI • Node.js • Express • Git • SQLite  
 
 - Built a web application for runners to track and manage their shoe rotation  
 - Designed and implemented a REST API with CRUD functionality   
