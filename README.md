@@ -38,7 +38,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 ---
 
 #### ☎️ **PhoneBook**  
-> React • Node.js • Express • MongoDB  
+> React • Node.js • Express • Git • MongoDB  
 
 - Implemented a REST API with full CRUD operations for managing contacts  
 - Built and deployed backend service with database integration  
