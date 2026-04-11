@@ -26,7 +26,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 - Built server-side rendered UI using Thymeleaf  
 - Added authentication and role-based access control with Spring Security  
 - Created seed data for testing   
-👉 [View Repository](https://github.com/Atte-A/hh-backend-resepti)
+👉 [Live App](https://hh-backend-resepti.onrender.com/) | [Repository](https://github.com/Atte-A/hh-backend-resepti)
 ---
 
 #### 👟 **RunningShoes** 
@@ -34,7 +34,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 
 - Built a web application for runners to track and manage their shoe rotation  
 - Designed and implemented a REST API with CRUD functionality   
-👉 [View Repository](https://github.com/Atte-A/running-shoes)
+👉 [Repository](https://github.com/Atte-A/running-shoes)
 ---
 
 #### ☎️ **PhoneBook**  
