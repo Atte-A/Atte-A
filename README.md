@@ -26,7 +26,7 @@ I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
 - Built server-side rendered UI using Thymeleaf  
 - Added authentication and role-based access control with Spring Security  
 - Created seed data for testing
-- Unit, integration tests using JUnit     
+- Developed unit, integration and controller tests using JUnit and MockMvc  
 👉 [Live App](https://hh-backend-resepti.onrender.com/) | [Repository](https://github.com/Atte-A/hh-backend-resepti)
 ---
 
