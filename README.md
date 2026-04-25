@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Atte, a backend-focused full-stack developer based in Helsinki, Finland.
+I'm Atte, a full-stack developer based in Helsinki, Finland.
 
 ### 💻 Tech Stack
 - Frontend: React, JavaScript, Material UI, (Thymeleaf)
