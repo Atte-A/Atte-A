@@ -11,7 +11,7 @@ I'm Atte, a full-stack developer based in Helsinki, Finland.
 ### 🧑‍💻 About Me
 - 🚀 Seeking my first software developer role
 - 🛠️ Building full-stack applications and designing REST APIs
-- 🌱 Currently learning Spring Boot, PostgreSQL, and improving testing skills
+- 🌱 Currently learning more about Spring Boot, PostgreSQL, and improving testing skills
 - 🎯 Focused on backend development, API design, and clean, maintainable code
 - 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/atteampuja/)
 
